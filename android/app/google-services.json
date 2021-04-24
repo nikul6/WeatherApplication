@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58463746046",
+    "project_id": "wheatherapp-e3304",
+    "storage_bucket": "wheatherapp-e3304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58463746046:android:c13c42c6a3cdc8a16332af",
+        "android_client_info": {
+          "package_name": "com.wheatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58463746046-sje2u57ktqnehustm23lata23k1h4q7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAknHWcUldVrHuH28v-RmYRLCuns6j4N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58463746046-sje2u57ktqnehustm23lata23k1h4q7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
